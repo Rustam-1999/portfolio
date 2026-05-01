@@ -43,6 +43,11 @@ Here is a selection of my work that demonstrates my capabilities across differen
 ## **📖 Storyboards**
 - [View Storyboard Collection](https://drive.google.com/drive/folders/15ksBZQJNMH2cB2xar72GRBKg4YqAqY2V)
 
+## **🔡 Typography**
+- [Typography Animation 1](https://drive.google.com/file/d/14bl4pq6PWA1tfnZ9k4UtPuxgImhCoqIx/view)
+- [Typography Animation 2](https://drive.google.com/file/d/1WpRLlzScYOpgYqGog-WkHzGMn0YrwaHj/view)
+- [Typography Animation 3](https://drive.google.com/file/d/1wBqPW0mK_kuCDCMlLKwE0IwODA0BdAwQ/view)
+
 ## **🧩 3D Elements & Animations**
 - [3D Showcase 1](https://drive.google.com/file/d/1z_XKz3tivy_xxFWUGiVqee7w_EjGHgsq/view?usp=drivesdk)
 - [3D Showcase 2](https://drive.google.com/file/d/1mqQWMcdVC7hQOo4aJZ9dArDbNX6dYKvF/view?usp=drivesdk)

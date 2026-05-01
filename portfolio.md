@@ -48,13 +48,13 @@ Here is a selection of my work that demonstrates my capabilities across differen
 - [3D Showcase 2](https://drive.google.com/file/d/1mqQWMcdVC7hQOo4aJZ9dArDbNX6dYKvF/view?usp=drivesdk)
 
 ## **🤖 AI-Based Animations**
-- [AI ProjectS 1](https://drive.google.com/file/d/1UHIj3MCwAkJZOmUY2l-GvLcuYEv29wM0/view?usp=drivesdk)
-- [AI ProjectS 2](https://drive.google.com/file/d/19swcbCcqHiS4jSL4cclH6z9FeHBU7x75/view?usp=drivesdk)
-- [AI ProjectS 3](https://drive.google.com/file/d/1r4L72FrMPcLShszY-BahE0_nqQR38XjN/view)
-- [AI ProjectS 4](https://drive.google.com/file/d/1bX7NPl0WxD7inmo9UhQqmGeCNXcnD_Um/view)
-- [AI ProjectS 5](https://drive.google.com/file/d/1dBIItt-yxspWYbPLx8bOXhXjYSXvfy7q/view)
-- [AI ProjectS 6](https://drive.google.com/file/d/1Mdq6pflcqC7KDynpVO9IiuyVxxR4TUKM/view)
-- [AI ProjectS 7](https://drive.google.com/file/d/1tKIeQa4iQHRwKg-__mdEfwYMLB7mpnwF/view)
+- [AI Projects 1](https://drive.google.com/file/d/1UHIj3MCwAkJZOmUY2l-GvLcuYEv29wM0/view?usp=drivesdk)
+- [AI Projects 2](https://drive.google.com/file/d/19swcbCcqHiS4jSL4cclH6z9FeHBU7x75/view?usp=drivesdk)
+- [AI Projects 3](https://drive.google.com/file/d/1r4L72FrMPcLShszY-BahE0_nqQR38XjN/view)
+- [AI Projects 4](https://drive.google.com/file/d/1bX7NPl0WxD7inmo9UhQqmGeCNXcnD_Um/view)
+- [AI Projects 5](https://drive.google.com/file/d/1dBIItt-yxspWYbPLx8bOXhXjYSXvfy7q/view)
+- [AI Projects 6](https://drive.google.com/file/d/1Mdq6pflcqC7KDynpVO9IiuyVxxR4TUKM/view)
+- [AI Projects 7](https://drive.google.com/file/d/1tKIeQa4iQHRwKg-__mdEfwYMLB7mpnwF/view)
 
 ## **📽️ Explainer & Whiteboard Animations**
 - [Explainer Animation Example 1](https://www.behance.net/gallery/223429047/Explainer-Animation)

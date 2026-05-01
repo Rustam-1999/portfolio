@@ -58,8 +58,7 @@ Here is a selection of my work that demonstrates my capabilities across differen
 
 ## **📽️ Explainer & Whiteboard Animations**
 - [Explainer Animation Example 1](https://www.behance.net/gallery/223429047/Explainer-Animation)
-- [Explainer Animation 2](https://www.behance.net/gallery/169968715/CHESS-CLUB)
-- [White Board Animation](https://drive.google.com/drive/folders/15ksBZQJNMH2cB2xar72GRBKg4YqAqY2V)
+- [Explainer Animation 2](https://www.behance.net/gallery/169968715/CHESS-CLUB) 
 - [Explainer Animation 3](https://drive.google.com/file/d/1bEJOwx9rGuxTSXYoRs4fq_XDhf6ZlzEK/view)
 - [Explainer Animation 4](https://drive.google.com/file/d/100aEesC2lSm6WR-hTC59pVj9is88SOKr/view)
 

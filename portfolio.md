@@ -9,7 +9,7 @@ I am currently a Senior Animator at Splitart Technologies. My career is driven b
 ## **🛠️ Skills & Expertise**
 My skill set spans across the entire animation and post-production pipeline.
 
-- **2D & 3D Animation:** Character Animation, Motion Graphics, 3D Modeling, VFX
+- **2D & 3D Animation:** Character Animation, Motion Graphics, 3D Modeling, VFX, AI Animation
 - **Post-Production:** Video Editing, Compositing, Color Correction, Film Restoration
 - **Design & Illustration:** Storyboarding, Digital Illustration
 
@@ -17,7 +17,7 @@ Software Proficiency:
 - **Adobe Creative Suite:** After Effects, Premiere Pro, Photoshop, Illustrator
 - **3D Software:** Cinema 4D, 3D Max
 - **Other Tools:** Figma, Final Cut Pro, Diamant Film Restoration
-- **AI in Animation:** RunwayML, Sora, VEO, Freepik AI, Google AI Studio and many more
+- **AI in Animation:** OpenArt, Seedance, VEO, Magnific (Freepik AI), Google AI Studio, Dzine, RunwayML, N8N, OpenClaw, and many more
 
 ## **💼 Professional Experience**
 - Senior Animator & Video Editor | Splitart Technologies (May 2023 - Present)

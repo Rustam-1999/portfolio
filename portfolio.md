@@ -61,6 +61,7 @@ Here is a selection of my work that demonstrates my capabilities across differen
 - [Explainer Animation 2](https://www.behance.net/gallery/169968715/CHESS-CLUB) 
 - [Explainer Animation 3](https://drive.google.com/file/d/1bEJOwx9rGuxTSXYoRs4fq_XDhf6ZlzEK/view)
 - [Explainer Animation 4](https://drive.google.com/file/d/100aEesC2lSm6WR-hTC59pVj9is88SOKr/view)
+- [Explainer Animation 5](https://www.behance.net/gallery/223428333/White-Board-Animations)
 
 ## **🌟 Logo Animation**
 - [Logo Animation 1](https://drive.google.com/file/d/12NXEB9gPIMG1eJTOe3bDNRiTbBWjhpxv/view)
